@@ -75,7 +75,7 @@ React Router
 
 ## How to Run the Project:
 
-1. Clone the Repository : git clone https://github.com/your-username/React-Ecommerce.git
+1. Clone the Repository : git clone https://github.com/ShantanuMate18/React-Ecommerce.git
 
 2. Navigate to the project : cd React-Ecommerce
 
